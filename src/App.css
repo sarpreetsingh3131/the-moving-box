@@ -1,0 +1,17 @@
+.contentBox {
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border: 5px solid #26282E;
+    width: 90%;
+    height: 70%;
+}
+
+.movableBox {
+    width: 10px;
+    height: 10px;
+    background: #EB4769; 
+}
